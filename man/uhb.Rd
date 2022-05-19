@@ -4,7 +4,10 @@
 \alias{uhb}
 \title{This is a test}
 \usage{
-uhb()
+uhb(n)
+}
+\arguments{
+\item{n}{This is the number you want square}
 }
 \description{
 This is a test
