@@ -7,7 +7,7 @@
 uhb(n)
 }
 \arguments{
-\item{n}{This is the number you want square}
+\item{n}{This is the number you want square.}
 }
 \description{
 This is a test
